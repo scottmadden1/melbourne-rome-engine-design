@@ -21,6 +21,7 @@ final code/
 ├── Q5_sensitivity_studies.py   Q4.5
 ├── Q5_final_design_sweep.py    Q4.5 final design: eta_o sweep at M = 0.75
 ├── Q5_gas_model_comparison.py  Q4.5 final design, enthalpy tables vs constant cp
+├── Q6_reduction_of_fuel_burn.py Q5.1 fuel burn with 0, 1 or 2 refuelling stops, writes Table 4
 ├── tests/test_regression.py    checks the library against the pre-refactor numbers
 ├── figures/                    written by the scripts
 └── tables/                     written by the scripts
